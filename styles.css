@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  background-color: black;
+  
+}
+
+/* Apply a basic font */
+body {
+  font-family: 'Arial', sans-serif;
+}
+
+.insta-header {
+  background-color: black;
+  color: white;
+  display: flex;
+justify-content: space-between;
+}
+.instafont{
+  flex-basis: 1090%;
+}
